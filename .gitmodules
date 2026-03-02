@@ -1,0 +1,12 @@
+[submodule "nvim/pack/nvim/start/nvim-lspconfig"]
+	path = nvim/pack/nvim/start/nvim-lspconfig
+	url = git@github.com:neovim/nvim-lspconfig.git
+[submodule "nvim/pack/nvim/start/nvim-treesitter"]
+	path = nvim/pack/nvim/start/nvim-treesitter
+	url = git@github.com:nvim-treesitter/nvim-treesitter.git
+[submodule "nvim/pack/nvim/start/rust-analyzer"]
+	path = nvim/pack/nvim/start/rust-analyzer
+	url = git@github.com:rust-lang/rust-analyzer.git
+[submodule "nvim/pack/nvim/start/tokyonight.nvim"]
+	path = nvim/pack/nvim/start/tokyonight.nvim
+	url = git@github.com:folke/tokyonight.nvim.git
