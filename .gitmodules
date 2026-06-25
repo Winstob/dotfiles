@@ -10,3 +10,6 @@
 [submodule "nvim/pack/nvim/start/tokyonight.nvim"]
 	path = nvim/pack/nvim/start/tokyonight.nvim
 	url = git@github.com:folke/tokyonight.nvim.git
+[submodule "nvim/pack/nvim/start/git-blame.nvim"]
+	path = nvim/pack/nvim/start/git-blame.nvim
+	url = git@github.com:f-person/git-blame.nvim.git

@@ -6,6 +6,9 @@ require("lsp.rust")
 -- Treesitter
 require("treesitter.init")
 
+-- Git Blame
+require("git-blame.init")
+
 -- Color Scheme
 require("colorscheme")
 
