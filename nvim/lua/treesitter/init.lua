@@ -1,5 +1,6 @@
 require('nvim-treesitter').setup {
-    ensure_installed = { "rust", "lua", "toml", "json", "c", "c++" },
+    ensure_installed = { "rust", "lua", "toml", "json", "c", "c++", "markdown" },
+    auto_install = true,
     highlight = {
         enable = true,
         additional_vim_regex_highlighting = false,
